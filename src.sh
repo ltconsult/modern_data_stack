@@ -41,3 +41,5 @@ docker compose up airflow-init
 docker-compose up -d
 
 docker-compose down --volumes --rmi all
+
+# Metabase
