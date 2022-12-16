@@ -1,7 +1,11 @@
-# modern_data_stack
-# airbyte-dbt-airflow-snowflake-metabase
-Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stack com AirByte + DBT + Airflow + SnowFlake + Metabase
+# Modern Data Stack
 
+Repositório destinado a armazenar artefatos do Pipeline utilizando Modern Data Stack:
+- AirByte
+- DBT
+- Airflow
+- SnowFlake
+- Metabase
 
 Tarefas:
 
