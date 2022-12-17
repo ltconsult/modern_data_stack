@@ -43,3 +43,7 @@ docker-compose up -d
 docker-compose down --volumes --rmi all
 
 # Metabase
+
+# Snowflake
+
+bu20790.us-central1.gcp.snowflakecomputing.com
