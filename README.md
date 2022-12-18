@@ -21,16 +21,15 @@ Infraestrutura:
 
 - Subir o Metabase via docker X
 
-- Criar o script de execução ?
+- Criar o script de execução X
 
-- Testar a Execução ?
+- Testar a Execução X
 
 - Snowflake Data Warehouse:
     
     - Criar a Conta no SnowFlake X
     - Verificar a existência das tabelas X
     - Obter os links de conexão e nome da conta X
-
 
 Extração:
 
